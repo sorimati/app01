@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">スピーチ時間シュミレーション</string>
+    <string name="app_name2">字数→時間</string>
+    <string name="input">テキストを入力して下さい</string>
+    <string name="textView">文字数：</string>
+    <string name="textView2">普通：</string>
+    <string name="textView3">早口：</string>
+    <string name="Calculation">計算する</string>
+    <string name="Clear">クリア</string>
+</resources>
