@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
             TextView output2=findViewById(R.id.textView2);
             TextView output3=findViewById(R.id.textView3);
 
-            //中身消去
+            //中身初期化
             input.setText("");
             output.setText(getString(R.string.textView));
             output2.setText(getString(R.string.textView2));
