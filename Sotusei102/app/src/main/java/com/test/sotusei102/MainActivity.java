@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         //アプリ名セット
         setTitle(getString(R.string.app_name));
 
+
     }
 
     //画面が破棄される前に状態を保持
@@ -62,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
             TextView output2=findViewById(R.id.textView2);
             TextView output3=findViewById(R.id.textView3);
 
-            //中身初期化
+            //中身消去
             input.setText("");
             output.setText(getString(R.string.textView));
             output2.setText(getString(R.string.textView2));
